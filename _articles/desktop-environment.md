@@ -285,7 +285,7 @@ sudo apt autoremove
 For example, to remove KDE:
 
 ```
-sudo apt purge kde-*
+sudo apt-get purge kde-*
 sudo apt autoremove
 ```
 
